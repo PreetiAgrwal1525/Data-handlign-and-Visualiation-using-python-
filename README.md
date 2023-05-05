@@ -1,4 +1,4 @@
-# Data-handlign-and-Visualiation-using-python-
+# Data-handling-and-Visualiation-using-python-
 Data Visualization using Python for AirBnb and HR Datasets
 
 Data visualization is important for almost every career. It can be used by teachers to display student test results, by computer scientists exploring advancements in artificial intelligence (AI) or by executives looking to share information with stakeholders. It also plays an important role in big data projects.
